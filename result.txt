@@ -1,0 +1,5 @@
+sat with length = 20
+not sat with length = 10
+sat with length = 15
+sat with length = 13
+not sat with length = 12
